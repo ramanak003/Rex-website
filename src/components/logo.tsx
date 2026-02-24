@@ -30,13 +30,13 @@ export function Logo({ className, href = "/", size = "md" }: LogoProps) {
     <>
       {/* Light mode: rexdark.png */}
       <img
-        src="/rexdark.png"
+        src="rexdark.png"
         alt="Rex"
         className={cn(imageClass, "dark:hidden")}
       />
       {/* Dark mode: rexlight.png (smaller) */}
       <img
-        src="/rexlight.png"
+        src="rexlight.png"
         alt="Rex"
         className={cn(darkImageClass, "hidden dark:block")}
       />

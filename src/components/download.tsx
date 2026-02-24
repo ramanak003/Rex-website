@@ -59,7 +59,7 @@ export function Download() {
                                     <div className="flex items-center gap-2">
                                         <div className="h-9 w-9 rounded-full bg-zinc-100 dark:bg-zinc-800 flex items-center justify-center overflow-hidden border-2 border-primary/20">
                                             <img
-                                                src="/avatar-cartoon.png"
+                                                src="avatar-cartoon.png"
                                                 alt="User Avatar"
                                                 className="h-full w-full object-cover"
                                             />
