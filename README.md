@@ -44,8 +44,8 @@ Rex is a modern, premium hospital management dashboard designed to streamline he
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ramanak003/Rex-webiste.git
-   cd Rex-webiste
+   git clone https://github.com/ramanak003/Rex-website.git
+   cd Rex-website
    ```
 
 2. **Install dependencies**
